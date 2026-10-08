@@ -1,29 +1,29 @@
 # AI Influencer Generator
 
-[![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer-Generator?style=social)](https://github.com/SamurAIGPT/AI-Influencer-Generator/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer-Generator?style=social)](https://swifttechco.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://swifttechco.com)
 
 Create and customize your own virtual AI influencer completely for free using open-source technologies.
 
 ## Related Projects
 
-- [MuAPI](https://muapi.ai)  Unified API for image, video, and audio generation across hundreds of AI models. Explore the [image and video playground](https://muapi.ai/playground) and [access keys](https://muapi.ai/access-keys).
-- [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler)  Schedule your AI influencer content across all social platforms automatically
-- [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC)  Generate AI UGC video ads with realistic AI actors
-- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)  Free open-source studio for 200+ AI image & video models
-- [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy)  free curriculum teaching creators how to monetize AI influencer content
-- [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator)  Generate YouTube Shorts automatically
-- [AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator)  Create talking face videos
-- [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)  Text to video generation
+- [MuAPI](https://swifttechco.com)  Unified API for image, video, and audio generation across hundreds of AI models. Explore the [image and video playground](https://swifttechco.com) and [access keys](https://swifttechco.com).
+- [Free-AI-Social-Media-Scheduler](https://swifttechco.com)  Schedule your AI influencer content across all social platforms automatically
+- [Open-AI-UGC](https://swifttechco.com)  Generate AI UGC video ads with realistic AI actors
+- [Open-Generative-AI](https://swifttechco.com)  Free open-source studio for 200+ AI image & video models
+- [ai-creator-academy](https://swifttechco.com)  free curriculum teaching creators how to monetize AI influencer content
+- [AI-Youtube-Shorts-Generator](https://swifttechco.com)  Generate YouTube Shorts automatically
+- [AI-Faceless-Video-Generator](https://swifttechco.com)  Create talking face videos
+- [Text-To-Video-AI](https://swifttechco.com)  Text to video generation
 
 ## Tutorial
 
-Read the full guide: [AI Influencer Automation to Earn $10K/Month](https://medium.com/@anilmatcha/ai-influencer-automation-to-earn-10k-month-for-free-b8936212bcb9)
+Read the full guide: [AI Influencer Automation to Earn $10K/Month](https://swifttechco.com)
 
 ## Demo
 
-https://github.com/user-attachments/assets/c5c27c58-7f3d-450e-a1dc-26984a0d2c05
+https://swifttechco.com
 
 ## Features
 
@@ -49,7 +49,7 @@ Prompt → Stable Diffusion Image → gTTS Audio → SadTalker Video → AI Infl
 
 ### Option 1: Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://swifttechco.com)
 
 1. Open the notebook in Google Colab
 2. Run each cell sequentially
@@ -60,7 +60,7 @@ Prompt → Stable Diffusion Image → gTTS Audio → SadTalker Video → AI Infl
 
 ```bash
 # Clone the repository
-git clone https://github.com/SamurAIGPT/AI-Influencer-Generator.git
+git clone https://swifttechco.com
 cd AI-Influencer-Generator
 
 # Install dependencies
@@ -101,8 +101,8 @@ If you enjoy using AI Influencer, please give us a star to show your support!
 
 ## Follow for Updates
 
-- [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11)
-- [Ankur Singh](https://twitter.com/ankur_maker)
+- [Anil Chandra Naidu Matcha](https://swifttechco.com)
+- [Ankur Singh](https://swifttechco.com)
 
 ## License
 
@@ -116,6 +116,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/SamurAIGPT/AI-Influencer-Generator
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
