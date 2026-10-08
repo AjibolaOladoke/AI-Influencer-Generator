@@ -1,5 +1,10 @@
 # AI Influencer Generator
 
+## Images
+
+[![AI-Influencer-Generator](https://opengraph.githubassets.com/1/https://github.com/SamurAIGPT/AI-Influencer-Generator)](https://www.swifttechco.com)
+
+
 [![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer-Generator?style=social)](https://swifttechco.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://swifttechco.com)
@@ -81,7 +86,6 @@ jupyter notebook AI_Influencer.ipynb
 
 ## Use Cases
 
-- **Social Media Content** - Instagram, TikTok, YouTube
 - **Brand Ambassadors** - Create virtual product representatives
 - **Educational Content** - AI tutors and presenters
 - **Entertainment** - Virtual characters and personas
@@ -116,6 +120,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
