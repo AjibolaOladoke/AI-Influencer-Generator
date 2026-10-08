@@ -2,7 +2,7 @@
 
 ## Images
 
-[![AI-Influencer-Generator](https://opengraph.githubassets.com/1/https://github.com/SamurAIGPT/AI-Influencer-Generator)](https://www.swifttechco.com)
+[![AI-Influencer-Generator](https://opengraph.githubassets.com/1/SamurAIGPT/AI-Influencer-Generator)](https://www.swifttechco.com)
 
 
 [![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer-Generator?style=social)](https://swifttechco.com)
