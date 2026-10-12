@@ -1,30 +1,27 @@
-# AI Influencer Generator
+# AI-Influencer-Generator
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the AI-Influencer-Generator notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![AI-Influencer-Generator](https://opengraph.githubassets.com/1/SamurAIGPT/AI-Influencer-Generator)](https://www.swifttechco.com)
-
-
-[![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer-Generator?style=social)](https://swifttechco.com)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://swifttechco.com)
-
-Create and customize your own virtual AI influencer completely for free using open-source technologies.
+[![AI-Influencer-Generator](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Related Projects
 
-- [MuAPI](https://swifttechco.com)  Unified API for image, video, and audio generation across hundreds of AI models. Explore the [image and video playground](https://swifttechco.com) and [access keys](https://swifttechco.com).
-- [Free-AI-Social-Media-Scheduler](https://swifttechco.com)  Schedule your AI influencer content across all social platforms automatically
-- [Open-AI-UGC](https://swifttechco.com)  Generate AI UGC video ads with realistic AI actors
-- [Open-Generative-AI](https://swifttechco.com)  Free open-source studio for 200+ AI image & video models
-- [ai-creator-academy](https://swifttechco.com)  free curriculum teaching creators how to monetize AI influencer content
-- [AI-Youtube-Shorts-Generator](https://swifttechco.com)  Generate YouTube Shorts automatically
-- [AI-Faceless-Video-Generator](https://swifttechco.com)  Create talking face videos
-- [Text-To-Video-AI](https://swifttechco.com)  Text to video generation
+- MuAPI  Unified API for image, video, and audio generation across hundreds of AI models. Explore the image and video playground and access keys.
+- Free-AI-Social-Media-Scheduler  Schedule your AI influencer content across all social platforms automatically
+- Open-AI-UGC  Generate AI UGC video ads with realistic AI actors
+- Open-Generative-AI  Free open-source studio for 200+ AI image & video models
+- ai-creator-academy  free curriculum teaching creators how to monetize AI influencer content
+- AI-Youtube-Shorts-Generator  Generate YouTube Shorts automatically
+- AI-Faceless-Video-Generator  Create talking face videos
+- Text-To-Video-AI  Text to video generation
 
 ## Tutorial
 
-Read the full guide: [AI Influencer Automation to Earn $10K/Month](https://swifttechco.com)
+Read the full guide: AI Influencer Automation to Earn $10K/Month
 
 ## Demo
 
@@ -105,8 +102,8 @@ If you enjoy using AI Influencer, please give us a star to show your support!
 
 ## Follow for Updates
 
-- [Anil Chandra Naidu Matcha](https://swifttechco.com)
-- [Ankur Singh](https://swifttechco.com)
+- Anil Chandra Naidu Matcha
+- Ankur Singh
 
 ## License
 
@@ -122,14 +119,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [SamurAIGPT/AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
