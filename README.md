@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![AI-Influencer-Generator](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![AI-Influencer-Generator](images/preview.png)](https://github.com/Swift-Tech-Co/AI-Influencer-Generator)
 
 ## Related Projects
 
@@ -25,7 +25,7 @@ Read the full guide: AI Influencer Automation to Earn $10K/Month
 
 ## Demo
 
-https://swifttechco.com
+https://github.com/Swift-Tech-Co/AI-Influencer-Generator
 
 ## Features
 
@@ -51,7 +51,7 @@ Prompt → Stable Diffusion Image → gTTS Audio → SadTalker Video → AI Infl
 
 ### Option 1: Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://swifttechco.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Swift-Tech-Co/AI-Influencer-Generator)
 
 1. Open the notebook in Google Colab
 2. Run each cell sequentially
@@ -62,7 +62,7 @@ Prompt → Stable Diffusion Image → gTTS Audio → SadTalker Video → AI Infl
 
 ```bash
 # Clone the repository
-git clone https://swifttechco.com
+git clone https://github.com/Swift-Tech-Co/AI-Influencer-Generator
 cd AI-Influencer-Generator
 
 # Install dependencies
@@ -123,13 +123,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/AI-Influencer-Generator
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [SamurAIGPT/AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
